@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>QПодбор места для отдыха</title>
+		<link rel="stylesheet" href="/static/question.css">
+		<script src="/static/question.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+	</head>
+	<body>
+		<div class="background"></div>
+		<div id="bg" class="main rounded-pill" style="background-image: url({{context.image}});">
+		</div>
+		<div class="question">
+			<div class="text">{{context.question}}</div>
+		</div>
+		<div class="buttons grid">
+			<form action="/answer" method="post">
+				{% for answ in context.answers %}
+				<button type="submit" class="btn btn-dark btn-lg" name="position" value={{answ.pos}}>{{answ.answer}}</button>
+				{% endfor %}
+			</form>
+		</div>
+	</body>
+</html>

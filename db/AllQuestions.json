@@ -1,0 +1,289 @@
+{
+	"questions" : [
+		{
+			"position" : 1,
+			"question" : "Какой тип путешествия вам по душе?",
+			"image": "https://cdn.pixabay.com/photo/2018/05/08/13/56/globe-3383088_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Туризм",
+					"answer" : "Туристический",
+					"qlink" : 11
+				},
+				{
+					"position" : 2,
+					"shortName" : "Экстрим",
+					"answer" : "Экстримальный",
+					"qlink" : 12
+				}
+			]
+		},
+		{
+			"position" : 12,
+			"question" : "Что бы вы предпочли?",
+			"image": "https://cdn.pixabay.com/photo/2018/02/28/18/53/waters-3188763_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Вода",
+					"answer" : "Водная среда",
+					"qlink" : 121
+				},
+				{
+					"position" : 2,
+					"shortName" : "Горы",
+					"answer" : "Горная местность",
+					"qlink" : 122
+				}
+			]
+		},
+		{
+			"position" : 122,
+			"question" : "Вид деятельности",
+			"image": "https://cdn.pixabay.com/photo/2010/11/29/mount-everest-413_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Альпинизм",
+					"answer" : "Альпинизм",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Лыжи",
+					"answer" : "Лыжный спорт",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 121,
+			"question" : "Вид деятельности",
+			"image": "https://cdn.pixabay.com/photo/2018/06/13/18/20/waves-3473335_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Серфинг",
+					"answer" : "Серфинг",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Дайвинг",
+					"answer" : "Дайвинг",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 11,
+			"question" : "Что вам больше нравится?",
+			"image": "https://cdn.pixabay.com/photo/2017/09/07/16/50/acropolis-2725918_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Культура/Природа",
+					"answer" : "Экотуризм",
+					"qlink" : 111
+				},
+				{
+					"position" : 2,
+					"shortName" : "Архитектура/Наука",
+					"answer" : "Экскурсии",
+					"qlink" : 112
+				}
+			]
+		},
+		{
+			"position" : 112,
+			"question" : "Архитектура или Музеи?",
+			"image": "https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Архитектура",
+					"answer" : "Архитектура",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Наука",
+					"answer" : "Музеи",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 1121,
+			"question" : "Архитектура",
+			"image": "https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067_960_720.png",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Что-то про Архитектуру 1",
+					"answer" : "арх1",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Что-то про Архитектуру 2",
+					"answer" : "арх2",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 1122,
+			"question" : "Наука",
+			"image": "https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067_960_720.png",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Что-то про Науку 1",
+					"answer" : "наука1",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Что-то про Науку 2",
+					"answer" : "наука2",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 111,
+			"question" : "Культура или природа?",
+			"image": "https://cdn.pixabay.com/photo/2016/05/23/07/36/japanese-1409839_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Культура",
+					"answer" : "Культура",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Природа",
+					"answer" : "Природа",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 1111,
+			"question" : "Культура",
+			"image": "https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067_960_720.png",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Что-то про Культуру 1",
+					"answer" : "культ1",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Что-то про Культуру 2",
+					"answer" : "культ2",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 1112,
+			"question" : "Природа",
+			"image": "https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067_960_720.png",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Что-то про Природу 1",
+					"answer" : "природа1",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Что-то про Природу 2",
+					"answer" : "природа2",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 2,
+			"question" : "Какой климат будет лучше?",
+			"image": "https://cdn.pixabay.com/photo/2020/04/02/23/01/rain-4996916_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Теплый",
+					"answer" : "Теплый",
+					"qlink" : 21
+				},
+				{
+					"position" : 2,
+					"shortName" : "Холодный",
+					"answer" : "Холодный",
+					"qlink" : 22
+				}
+			]
+		},
+		{
+			"position" : 3,
+			"question" : "No q",
+			"image": "https://cdn.pixabay.com/photo/2014/10/14/20/24/soccer-488700__340.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "None1",
+					"answer" : "None",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "None2",
+					"answer" : "None",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 21,
+			"question" : "Жара?",
+			"image": "https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Жара",
+					"answer" : "Да!",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Тепло",
+					"answer" : "Нет!",
+					"qlink" : null
+				}
+			]
+		},
+		{
+			"position" : 22,
+			"question" : "Арктический или умеренный?",
+			"image": "https://cdn.pixabay.com/photo/2017/02/12/10/16/traunsee-2059674_960_720.jpg",
+			"answers" : [
+				{
+					"position" : 1,
+					"shortName" : "Арктика",
+					"answer" : "Арктический",
+					"qlink" : null
+				},
+				{
+					"position" : 2,
+					"shortName" : "Умеренно",
+					"answer" : "Умеренный",
+					"qlink" : null
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,164 @@
+{
+	"results" : [
+		{
+			"place" : "Картахен, Колумбия",
+			"image" : "https://planetofhotels.com/guide/sites/default/files/styles/big_gallery_image/public/text_gallery/cartagena-4_0.jpg",
+			"shortNames" : ["Туризм", "Культура/Природа", "Культура", "Теплый", "Жара"]
+		},
+		{
+			"place" : "Бразилия, Рио де Жанейро",
+			"image" : "https://www.vesveter.ru/images/brazilia/big/rio_de_janeiro_1.jpg",
+			"shortNames" : ["Туризм", "Культура/Природа", "Культура", "Теплый", "Тепло"]
+		},
+		{
+			"place" : "Япония, Токио",
+			"image" : "https://visitjapan.ru/storage/app/media/Prefecture/2901/image/tokyo2258-28.jpeg",
+			"shortNames" : ["Туризм", "Культура/Природа", "Культура", "Холодный", "Умеренно"]
+		},
+		{
+			"place" : "Норвегия, Осло",
+			"image" : "https://visitjapan.ru/storage/app/media/Prefecture/2901/image/tokyo2258-28.jpeg",
+			"shortNames" : ["Туризм", "Культура/Природа", "Культура", "Холодный", "Арктика"]
+		},
+		{
+			"place" : "Гренландия",
+			"image" : "https://otdyhateli.com/wp-content/uploads/2016/03/grenlandiya.jpg",
+			"shortNames" : ["Туризм", "Культура/Природа", "Природа", "Холодный", "Арктика"]
+		},
+		{
+			"place" : "Кения, Найроби",
+			"image" : "https://jet.africa/wp-content/uploads/2020/05/kenia-1024x669.jpeg",
+			"shortNames" : ["Туризм", "Культура/Природа", "Природа", "Теплый", "Жара"]
+		},
+		{
+			"place" : "Индонезия, Батам",
+			"image" : "https://ostrova24.ru/wp-content/uploads/2019/04/ostrov-batam.jpeg",
+			"shortNames" : ["Туризм", "Культура/Природа", "Природа", "Теплый", "Тепло"]
+		},
+		{
+			"place" : "Исландия, Хабнарфьордюр",
+			"image" : "https://peopletravel.by/uploads/images/fotos/resorts/islandia/habnarfiodur_1.jpg",
+			"shortNames" : ["Туризм", "Культура/Природа", "Природа", "Холодный", "Умеренно"]
+		},
+		{
+			"place" : "Испания, Барселона",
+			"image" : "https://espanarusa.com/files/autoupload/94/84/67/xllspuz5392644.jpg",
+			"shortNames" : ["Туризм", "Архитектура/Наука", "Архитектура", "Теплый", "Жара"]
+		},
+		{
+			"place" : "Греция, Коринф",
+			"image" : "https://cs10.pikabu.ru/post_img/big/2018/08/13/10/1534178075169822052.jpg",
+			"shortNames" : ["Туризм", "Архитектура/Наука", "Архитектура", "Теплый", "Тепло"]
+		},
+		{
+			"place" : "Италия, Флоренция",
+			"image" : "https://img-cdn.tinkoffjournal.ru/i/5T3YrjZpe-tKuP8UPR4tKACYB-_PUilVmHA3nnOLbrE/w:1200/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/ZmxvcmVuY2l5YV9f/X21haW4ueWd5c29x/bXN4anBlLmpwZw",
+			"shortNames" : ["Туризм", "Архитектура/Наука", "Архитектура", "Холодный", "Умеренно"]
+		},
+		{
+			"place" : "Россия, Санкт-Петербург",
+			"image" : "https://img-cdn.tinkoffjournal.ru/i/1usByf4iKOPhdfNfEs91TEuUzLhesw6rETR5ipijjCg/w:1200/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/cGl0ZXItY292ZXIt/aW4uanZ4a202eHNh/ajFhLmpwZw",
+			"shortNames" : ["Туризм", "Архитектура/Наука", "Архитектура", "Холодный", "Арктика"]
+		},
+		{
+			"place" : "Австралия, Сидней",
+			"image" : "https://sites.google.com/site/agstralia/_/rsrc/1399464419414/goroda-avstralii/sidnej/Australia_Day.jpg",
+			"shortNames" : ["Туризм", "Архитектура/Наука", "Наука", "Теплый", "Жара"]
+		},
+		{
+			"place" : "Франция, Париж",
+			"image" : "https://slon.fr/wp-content/uploads/2019/11/muzei-2.jpg",
+			"shortNames" : ["Туризм", "Архитектура/Наука", "Наука", "Теплый", "Тепло"]
+		},
+		{
+			"place" : "Англия, Лондон",
+			"image" : "https://cdnn21.img.ria.ru/images/155635/45/1556354505_0:438:2000:1563_1920x0_80_0_0_64fb6d242c6240d9e44e5de1a31a7d6f.jpg",
+			"shortNames" : ["Туризм", "Архитектура/Наука", "Наука", "Холодный", "Умеренно"]
+		},
+		{
+			"place" : "Дания, Ольборг",
+			"image" : "http://ic.pics.livejournal.com/lorien22/5077310/682891/682891_original.jpg",
+			"shortNames" : ["Туризм", "Архитектура/Наука", "Наука", "Холодный", "Арктика"]
+		},
+		{
+			"place" : "Клауд Найн, Филипины",
+			"image" : "https://ethnomir.ru/upload/medialibrary/a5d/filippiny_01.jpg",
+			"shortNames" : ["Экстрим", "Вода", "Серфинг", "Теплый", "Тепло"]
+		},
+		{
+			"place" : "Австралия, Голд Кост",
+			"image" : "https://about-planet.ru/images/avstralia/goroda/zolotye-poberejya/gold-kost3.jpg",
+			"shortNames" : ["Экстрим", "Вода", "Серфинг", "Теплый", "Жара"]
+		},
+		{
+			"place" : "Ирландия, Бандоран Бич",
+			"image" : "https://img.kapital.kz/GArawi8YLCE/czM6Ly9rYXBpdGFsLXN0YXRpYy9pbWcvMS8yLzUvYy83L2Q3ZDE1ZDM1YmMxMWM1OGE0MWY4MDhkYTY5Mi5qcGc",
+			"shortNames" : ["Экстрим", "Вода", "Серфинг", "Холодный", "Умеренно"]
+		},
+		{
+			"place" : "Тофино, Ванкувер Канада",
+			"image" : "https://www.redhairtravel.com/wp-content/uploads/2020/04/vancouver.jpg",
+			"shortNames" : ["Экстрим", "Вода", "Серфинг", "Холодный", "Арктика"]
+		},
+		{
+			"place" : "Пуанта-Горда, Коста-Рика",
+			"image" : "https://www.securitylab.ru/upload/iblock/753/75367bec0669c6ff135efac7bf809cba.jpg",
+			"shortNames" : ["Экстрим", "Вода", "Дайвинг", "Теплый", "Тепло"]
+		},
+		{
+			"place" : "Красное море, Египет",
+			"image" : "https://turvopros.com/wp-content/uploads/2021/10/kurorty-egipta-na-krasnom-more.jpg",
+			"shortNames" : ["Экстрим", "Вода", "Дайвинг", "Теплый", "Жара"]
+		},
+		{
+			"place" : "Бон Эйр, Антильские острова, Нидерланды",
+			"image" : "https://vsegda-pomnim.com/uploads/posts/2022-03/1648617220_3-vsegda-pomnim-com-p-antilskie-ostrova-foto-7.jpg",
+			"shortNames" : ["Экстрим", "Вода", "Дайвинг", "Холодный", "Умеренно"]
+		},
+		{
+			"place" : "Белое море, Россия, полярный круг",
+			"image" : "https://kareliya.ru/resources/doc-15221-ph-gallery-55139-original.jpg",
+			"shortNames" : ["Экстрим", "Вода", "Дайвинг", "Холодный", "Арктика"]
+		},
+		{
+			"place" : "Крым, гора Симеиз",
+			"image" : "https://w-sail.com/wp-content/uploads/2020/05/simeiz.jpg",
+			"shortNames" : ["Экстрим", "Горы", "Альпинизм", "Теплый", "Жара"]
+		},
+		{
+			"place" : "Индия, Горы Аравали",
+			"image" : "https://cs8.pikabu.ru/post_img/big/2016/08/25/7/1472122491155826916.jpg",
+			"shortNames" : ["Экстрим", "Горы", "Альпинизм", "Теплый", "Тепло"]
+		},
+		{
+			"place" : "Швейцария, Гора Маттерхорн",
+			"image" : "https://i.pinimg.com/originals/eb/06/5c/eb065cb6361194fb76cb3a59caead5c6.png",
+			"shortNames" : ["Экстрим", "Горы", "Альпинизм", "Холодный", "Умеренно"]
+		},
+		{
+			"place" : "Пик Исмола Сомоли, Таджикистан",
+			"image" : "https://asiaplustj.info/sites/default/files/articles/302270/222_pik_ismoila_somoni%20%281%29.jpg",
+			"shortNames" : ["Экстрим", "Горы", "Альпинизм", "Холодный", "Арктика"]
+		},
+		{
+			"place" : "Скай Дубаи, ОАЭ",
+			"image" : "https://emiratica.com/data/poi/65/big-5c34d9218c5de.jpg",
+			"shortNames" : ["Экстрим", "Горы", "Лыжи", "Теплый", "Жара"]
+		},
+		{
+			"place" : "Сьерра-Невада, Испания",
+			"image" : "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mount_Whitney_2003-03-25.jpg",
+			"shortNames" : ["Экстрим", "Горы", "Лыжи", "Теплый", "Тепло"]
+		},
+		{
+			"place" : "Шамони, Франция",
+			"image" : "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG",
+			"shortNames" : ["Экстрим", "Горы", "Лыжи", "Холодный", "Умеренно"]
+		},
+		{
+			"place" : "Вистлер, Канада",
+			"image" : "https://www.orangesmile.com/common/img_cities_original/whistler-900000001-9.jpg",
+			"shortNames" : ["Экстрим", "Горы", "Лыжи", "Холодный", "Арктика"]
+		}
+	]
+}

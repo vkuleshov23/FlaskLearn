@@ -1,0 +1,77 @@
+html {
+	width: 100%;
+	height: 100%;
+}
+.background {
+	background: linear-gradient(to right bottom, rgba(0, 120, 110, 0.9), rgba(100, 0, 100, 0.9));
+	width: 100%;
+	height: 100vh;
+}
+
+.main {
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 900px;
+	height: 900px;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+	text-align: center;	
+	transition: all 1.0s;
+	border-style: solid;
+	margin: 0;
+	padding: 0;
+	font-size: 35px;
+	filter: blur(2px);
+}
+
+.main:hover {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 1200px;
+	height: 1200px;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+	text-align: center;
+	border-style: solid;
+	margin: 0;
+	padding: 0;
+	font-size: 42px;
+	filter: blur(0px);
+}
+
+.question {
+/*	width: 800px;
+	height: 200px;
+	background: linear-gradient(to right bottom, rgba(20, 20, 20, 0.9), rgba(100, 100, 100, 0.9));
+*/
+	position: absolute;
+	text-align: center;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+}
+.text {
+	background: rgba(51, 56, 62, 1.0);
+	border-radius: 100px;
+	padding: 15px;
+	font-size: 30px;
+	color: rgba(255, 255, 255, 1.0);
+}
+
+
+.buttons {
+	position: absolute;
+	text-align: center;
+	transform: translate(-50%,-50%);
+	top: 70%;
+	left: 50%;
+}
+.button {	
+	font-size: 35px;
+}
